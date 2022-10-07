@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @manish123k
-- 👀 I’m interested in Data structre
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning MCA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
