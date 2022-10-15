@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @manish123k
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning MCA
+- 👋 Hi, I’m Manish kumar
+- 👀 I'm pursuing mca from NITT
+- 👀 I’m interested in Data Structure and Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
